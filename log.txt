@@ -1,0 +1,18 @@
+--------------------------------------------------
+Func name "foo"
+Func args (20, 2)
+Func kwargs {}
+Timeline 0:00:01.001064
+Func name "foo"
+Func args (10, 15)
+Func kwargs {}
+Timeline 0:00:01.001093
+Func name "foo"
+Func args (15, 99999999)
+Func kwargs {}
+Timeline 0:00:01.001052
+--------------------------------------------------
+Func name "gen"
+Func args ('countries.txt',)
+Func kwargs {}
+Timeline 0:00:00.000006

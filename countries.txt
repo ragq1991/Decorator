@@ -1,0 +1,50 @@
+[
+    {
+        "name": {
+            "common": "Aruba",
+            "official": "Aruba",
+            "native": {
+                "nld": {
+                    "official": "Aruba",
+                    "common": "Aruba"
+                },
+                "pap": {
+                    "official": "Aruba",
+                    "common": "Aruba"
+                }
+            }
+        },
+        "tld": [
+            ".aw"
+        ],
+        "cca2": "AW",
+        "ccn3": "533",
+        "cca3": "ABW",
+        "cioc": "ARU",
+        "independent": false,
+        "status": "officially-assigned",
+        "unMember": false,
+        "currencies": {
+            "AWG": {
+                "name": "Aruban florin",
+                "symbol": "\u0192"
+            }
+        },
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "97"
+            ]
+        },
+        "capital": [
+            "Oranjestad"
+        ],
+        "altSpellings": [
+            "AW"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "languages": {
+            "nld": "Dutch",
+            "pap": "Papiamento"
+        },
